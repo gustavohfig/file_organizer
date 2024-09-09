@@ -1,2 +1,2 @@
-# file_organizer
-Python code to organize your files into folders
+# file_organizer 📂
+🐍 Python code to organize your files into folders
